@@ -1,2 +1,1 @@
-- Hi, I’m @NanoEditUser
-- currently enrolled in Computer Science as an undergraduate at university
+
